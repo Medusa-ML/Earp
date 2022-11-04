@@ -1,6 +1,8 @@
 # medusa-ml-template
 
-a template project for machine learning experiments, using dockerized tensorflow environments and data downloaders
+The model that says reach for the sky, you have the face of a criminal!
+
+<img src="./docs/Earp.jpeg" alt="Earp Logo"/>
 
 # Requirements
 
