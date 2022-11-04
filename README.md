@@ -4,6 +4,12 @@ The model that says reach for the sky, you have the face of a criminal!
 
 <img src="./docs/Earp.jpeg" alt="Earp Logo"/>
 
+# TODO
+
+* scrape mugshots [mcso](https://www.mcso.org/i-want-to/mugshot-lookup) and [Arrests.org](https://arrests.org/) via [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj)
+* [CelebA Faces](https://huggingface.co/datasets/nielsr/CelebA-faces)
+
+
 # Requirements
 
 * [docker](https://www.docker.com/)
